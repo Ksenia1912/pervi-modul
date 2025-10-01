@@ -1,0 +1,14 @@
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 1\1.2\1.2 5\1.2 5\bin\Debug\net8.0\1.2 5.exe
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 1\1.2\1.2 5\1.2 5\bin\Debug\net8.0\1.2 5.deps.json
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 1\1.2\1.2 5\1.2 5\bin\Debug\net8.0\1.2 5.runtimeconfig.json
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 1\1.2\1.2 5\1.2 5\bin\Debug\net8.0\1.2 5.dll
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 1\1.2\1.2 5\1.2 5\bin\Debug\net8.0\1.2 5.pdb
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 1\1.2\1.2 5\1.2 5\obj\Debug\net8.0\1.2 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 1\1.2\1.2 5\1.2 5\obj\Debug\net8.0\1.2 5.AssemblyInfoInputs.cache
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 1\1.2\1.2 5\1.2 5\obj\Debug\net8.0\1.2 5.AssemblyInfo.cs
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 1\1.2\1.2 5\1.2 5\obj\Debug\net8.0\1.2 5.csproj.CoreCompileInputs.cache
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 1\1.2\1.2 5\1.2 5\obj\Debug\net8.0\1.2 5.dll
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 1\1.2\1.2 5\1.2 5\obj\Debug\net8.0\refint\1.2 5.dll
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 1\1.2\1.2 5\1.2 5\obj\Debug\net8.0\1.2 5.pdb
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 1\1.2\1.2 5\1.2 5\obj\Debug\net8.0\1.2 5.genruntimeconfig.cache
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 1\1.2\1.2 5\1.2 5\obj\Debug\net8.0\ref\1.2 5.dll
