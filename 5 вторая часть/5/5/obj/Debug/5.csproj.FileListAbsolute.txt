@@ -1,0 +1,10 @@
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 5\5\5\bin\Debug\5.exe.config
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 5\5\5\bin\Debug\5.exe
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 5\5\5\bin\Debug\5.pdb
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 5\5\5\obj\Debug\5.csproj.AssemblyReference.cache
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 5\5\5\obj\Debug\_5.Form1.resources
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 5\5\5\obj\Debug\_5.Properties.Resources.resources
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 5\5\5\obj\Debug\5.csproj.GenerateResource.cache
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 5\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 5\5\5\obj\Debug\5.exe
+C:\Users\ksyu6\OneDrive\Рабочий стол\практика\модуль 5\5\5\obj\Debug\5.pdb
